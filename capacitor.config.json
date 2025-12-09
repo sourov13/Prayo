@@ -1,0 +1,8 @@
+{
+  "appId": "com.dailygrace.app",
+  "appName": "DailyGrace",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
